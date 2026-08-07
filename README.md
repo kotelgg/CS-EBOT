@@ -49,6 +49,12 @@ AI Bot for Counter-Strike based on SyPB, this bot is only for zombie plague/esca
 Or download this pack for Windows:
 https://github.com/kotelgg/zp_ebot_pack/releases/tag/ZP-PACK-1.0
 
+Add this to the config(amxx.cfg or server.cfg, etc.) if you're using ReHLDS (it fixes helicopter and elevator movement when using semiclip):
+```
+sv_force_ent_intersection 1
+```
+
+
 
 ##  **System Requirements (Linux)**
 
